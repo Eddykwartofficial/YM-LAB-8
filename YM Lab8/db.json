@@ -1,0 +1,8 @@
+{
+  "programs": [
+    { "id": 1, "title": "Robotics Basics", "description": "Intro to building robots" }
+  ],
+  "projects": [
+    { "id": 1, "title": "Drone Project", "year": 2023, "award": "Innovation Award" }
+  ]
+}
